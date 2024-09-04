@@ -1,0 +1,3 @@
+John Doe +380123456789
+Alice Johnson +380234567890
+Bob White +380987654321
